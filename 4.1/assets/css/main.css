@@ -1857,6 +1857,8 @@ ul.ttm_contact_widget_wrapper li{
     padding-bottom: 15px;
     line-height: 25px;
     border-bottom: 1px solid #eaeaea;
+	width:49%;
+	display:inline-block;
 }
 ul.ttm_contact_widget_wrapper li h6{font-size: 18px; line-height: 24px; padding-left: 37px;}
 ul.ttm_contact_widget_wrapper li:last-child{ border: 0; }
